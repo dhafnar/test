@@ -1,2 +1,2 @@
 # test
-test repository
+Test is a repo to test Git.
